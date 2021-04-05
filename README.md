@@ -1,8 +1,8 @@
 # Inverntory_Management_System
 # SYNOPSIS 
-- Devesh Tibrewala 02429802019
-- Kirtivardhan Singh 00129802019
-- Yogesh Sethi 04729802019
+- Devesh Tibrewala 02429802019 goeld200@gmail.com
+- Kirtivardhan Singh 00129802019 ikirtivardhansingh@gmail.com
+- Yogesh Sethi 04729802019 
 
 ##Introduction
 As after Lockdown 2020, many people have lost their jobs, so they are moving towards small-scale
