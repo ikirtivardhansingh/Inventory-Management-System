@@ -1,7 +1,7 @@
 # Inverntory_Management_System
 # SYNOPSIS 
 - Devesh Tibrewala 02429802019 | goeld200@gmail.com
-- Kirtivardhan Singh 00129802019 | ikirtivardhansingh@gmail.com
+- Kirtivardhan Singh 00129802019 | ikirtivardhansingh@gmail.com 🤘
 - Yogesh Sethi 04729802019  | yamansethiabc@gmail.com 
 
 ## Introduction
