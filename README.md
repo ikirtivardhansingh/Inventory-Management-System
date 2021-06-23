@@ -44,6 +44,9 @@ increase their profits.
 - Business predictions
 ![Untitled Workspace](https://user-images.githubusercontent.com/40534936/114001532-a7e1f400-9879-11eb-99a6-5f99c27df85f.png)
 
+## Implementation
+We have implemented the application on 13 products for the initial stage and processed revenue calculation on the basis of previous inflow and outflow of inventory.  We also have reached two companies for the real-world implementation of the project with more than 10k data.
+
 ## Modules
 There will be total 4 modules in this Project:
 - Login Module.
