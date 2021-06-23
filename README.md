@@ -31,6 +31,9 @@ with the help of a software, it is quite simple and easy.
 - To give some business predictions to the owner so that they can plan their strategies and can
 increase their profits.
 - To provide an efficient user friendly and easy to use GUI software
+- 
+## Implementation
+We have implemented the application on 13 products for the initial stage and processed revenue calculation on the basis of previous inflow and outflow of inventory.  We also have reached two companies for the real-world implementation of the project with more than 10k data.
 
 ## Scope
 - User Login with different user rights.
